@@ -3,7 +3,7 @@
 ## Introduction
 
 Many people like to spend their vacation sightseeing in cities such as Rome, Paris, London, etc. These are huge cities with a large number of attractions.
-The first thing a tourist faces is: Where is the best place to live to see everything? 
+The first thing a tourist faces: Where is the best place to live to see everything? 
 
 ## Business Problem
 
